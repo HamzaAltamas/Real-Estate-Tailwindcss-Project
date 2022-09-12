@@ -6,6 +6,9 @@ tailwind.config = {
         primarybg: "#F2F2E7",
         blue: "#203239",
         orange: "#FF7527",
+        ashborder: "#EEEDDE",
+        transtext: "rgba(32, 50, 57, 0.55)",
+        ash: "#d6d5c7",
       },
       fontFamily: {
         pop: "Poppins",
@@ -13,6 +16,9 @@ tailwind.config = {
       },
       maxWidth: {
         container: "1100px",
+      },
+      fontSize: {
+        h2: "30px",
       },
     },
   },
