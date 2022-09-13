@@ -9,6 +9,7 @@ tailwind.config = {
         ashborder: "#EEEDDE",
         transtext: "rgba(32, 50, 57, 0.55)",
         ash: "#d6d5c7",
+        lightorange: "#f1d5b9",
       },
       fontFamily: {
         pop: "Poppins",
