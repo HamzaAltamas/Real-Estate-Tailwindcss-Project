@@ -19,6 +19,7 @@ tailwind.config = {
       },
       fontSize: {
         h2: "30px",
+        h3: "20px",
       },
     },
   },
